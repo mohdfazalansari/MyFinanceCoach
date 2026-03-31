@@ -1,0 +1,23 @@
+// ─── DESIGN TOKENS ───────────────────────────────────────────────────────────
+export const C = {
+  bg: "#EEF2F8",
+  surface: "#FFFFFF",
+  primary: "#4F46E5",
+  primaryDark: "#111827",
+  success: "#16A34A",
+  successBg: "#DCFCE7",
+  successText: "#15803D",
+  danger: "#DC2626",
+  dangerBg: "#FEE2E2",
+  dangerText: "#B91C1C",
+  warning: "#D97706",
+  warningBg: "#FEF3C7",
+  purple: "#7C3AED",
+  purpleBg: "#EDE9FE",
+  blueBg: "#DBEAFE",
+  blueText: "#1D4ED8",
+  muted: "#6B7280",
+  border: "#E5E7EB",
+  text: "#111827",
+  textSm: "#374151",
+};
