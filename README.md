@@ -8,3 +8,5 @@ MyFinanceCoach is a personal finance intelligence platform that helps users anal
 4) To create a "what-if" simulator that predicts future outcomes based on changes in income or expenses.
 5) To design a user-friendly frontend interface that enables users to manage their finances easily.
 6) To implement a secure backend system that ensures user data privacy and protection.
+
+#You can find attach PPT about project for better Understanding
